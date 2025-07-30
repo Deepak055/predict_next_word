@@ -1,0 +1,15 @@
+# Essential packages for Heart Disease Prediction App
+streamlit==1.46.1
+pandas==2.3.1
+numpy==1.26.4
+scikit-learn==1.7.0
+tensorflow==2.19.0
+keras==3.10.0
+
+# For pickle files (preprocessors)
+joblib==1.5.1
+
+# Core dependencies (automatically installed but good to specify)
+h5py==3.14.0
+protobuf==5.29.5
+packaging==25.0
